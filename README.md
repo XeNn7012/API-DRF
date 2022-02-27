@@ -55,7 +55,7 @@
                                                     
  About ***pro_api***
  >I used Class based views for this api.
- >I had to change user.json, The provided sample data by adding model,fields to whole database items inorder to populate database.
+ >I had to add extra to users.json to the provided sample data. By adding model,fields to whole database items inorder to populate database.
  >Populated Data base with django-admin loaddata user {command}.
  >I used serializers.ModelSerializer {for serializering}.
  >I used rest_framework Documentation for referring.
