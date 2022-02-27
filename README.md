@@ -30,6 +30,8 @@
 >Go to this link  http://127.0.0.1:8000/api/           #### for creating new user goto this link and navigate down where you will find media type and content. 
                                                            let the media type be default and in content add data in json format exculding id. in same Json format and click
                                                            on the button Post
+>Example
+>                                                           
                                                            {
                                                               "first_name": "Chaun",
                                                               "last_name": "Motle",
