@@ -6,7 +6,9 @@
 >type below to activate virtualenvironment
 
 >Venv\Scripts\activate
+
 >cd pro_api
+
 >python manage.py runserver 
 
 >open this link http://127.0.0.1:8000/api for getting an overview whole data
