@@ -4,7 +4,7 @@
 >Extract The Project.zip
 >open anycode editor in extracted Project folder and go to terminal and follow as
 
->type below to activate virtualenvironment
+>type same as below to activate virtualenvironment
 
 >Venv\Scripts\activate
 
