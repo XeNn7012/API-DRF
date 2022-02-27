@@ -1,5 +1,5 @@
 # pro_api
->for better understanding open this raw format 
+>for better understanding open this in raw format 
 
 >Extract The Project.zip
 >open anycode editor in extracted Project folder and go to terminal and follow as
