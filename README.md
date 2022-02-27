@@ -27,7 +27,7 @@
                                                                                            order, remove the minus for accending order}.
                                                                    
 
->Go to this link  http://127.0.0.1:8000/api/           #### for creating new user goto this link and navigate to down where you will find media type and content 
+>Go to this link  http://127.0.0.1:8000/api/           #### for creating new user goto this link and navigate down where you will find media type and content 
                                                            let media type be default and in content type add data in json format exculding id. in same Json format and click
                                                            on the button Post
                                                            {
