@@ -19,8 +19,10 @@
 
 >open this link http://127.0.0.1:8000/list/           ###for getting json data in pagination format, as given, limited to 5 and also In the same page click on filters button 
                                                          and enter in search field for filtering by first_name, last_name.
-                                                         you can select same filter button and select required file to get sorted in accending or deccending order or u can edit below                                                    link to do it manually 
-
+                                                         you can select same filter button and select required file to get sorted in accending or deccending order or u can edit
+                                                         below link to do it manually. 
+                                                         
+                                                         
 >Go to this link http://127.0.0.1:8000/api/list/?search=james&ordering=-id               ###here you can change search={enter field here}, and also ordering= {- for decending 
                                                                                            order, remove the minus for accending order}.
                                                                    
