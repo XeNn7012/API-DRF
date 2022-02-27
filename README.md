@@ -45,6 +45,7 @@
           }                               
 
 
+>
                                                        
 >Go to this link  http://127.0.0.1:8000/api/2        #### To update data goto the link and change the last number in the link which is pk. You will find same as above but  
                                                      instead of POST you will find PUT. Enter the data as same as above and click on PUT. Data will be updated
