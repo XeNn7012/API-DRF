@@ -2,9 +2,9 @@
 
 
 >Extract The Project.zip
->open anycode editor in extracted Project folder and go to terminal and follow as
+>Open anycode editor in extracted Project folder and go to terminal and follow as
 
->type same as below to activate virtualenvironment
+>Type same as below to activate virtualenvironment
 
 >Venv\Scripts\activate
 
@@ -12,22 +12,22 @@
 
 >python manage.py runserver 
 
->open this link http://127.0.0.1:8000/api for getting an overview whole data
+>Open this link http://127.0.0.1:8000/api for getting an overview whole data
 
->open this link http://127.0.0.1:8000/api/1            ### the last number represents the primary key which can be used to navigate to specific user by changing it 
+>Open this link http://127.0.0.1:8000/api/1            ### The last number represents the primary key which can be used to navigate to specific user by changing it 
 
 
->open this link http://127.0.0.1:8000/api/list/           ###for getting json data in pagination format, as given, limited to 5 and also In the same page click on filters button 
+>Open this link http://127.0.0.1:8000/api/list/           ###For getting json data in pagination format, as given, limited to 5 and also In the same page click on filters button 
                                                          and enter in search field for filtering by first_name, last_name.
-                                                         you can select same filter button and select required file to get sorted in accending or deccending order or u can edit
+                                                         you can also select same filter button and select required file to get sorted in accending or decending order or u can edit
                                                          below link to do it manually. 
                                                          
                                                          
->Go to this link http://127.0.0.1:8000/api/list/?search=james&ordering=-id               ###here you can change search={enter field here}, and also ordering= {- for decending 
+>Go to this link http://127.0.0.1:8000/api/list/?search=james&ordering=-id               ###Here you can change search={enter field here}, and also ordering= {- for decending 
                                                                                            order, remove the minus for accending order}.
                                                                    
 
->Go to this link  http://127.0.0.1:8000/api/           #### for creating new user goto this link and navigate down where you will find media type and content. 
+>Go to this link  http://127.0.0.1:8000/api/           #### For creating new user goto this link and navigate down where you will find media type and content. 
                                                            let the media type be default and in content add data in json format exculding id. in same Json format and click
                                                            on the button Post
 >Example
