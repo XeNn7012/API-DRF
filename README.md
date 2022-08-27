@@ -28,7 +28,7 @@
                                                                    
 
 >Go to this link  http://127.0.0.1:8000/api/           #### For creating new user goto this link and navigate down where you will find media type and content. 
-                                                           let the media type be default and in content add data in json format exculding id. in same Json format and click
+                                                           let the media type be default and in content add data in json format excluding id. in same Json format and click
                                                            on the button Post
 >Example
 >                                                           
@@ -47,8 +47,7 @@
 
 >
                                                        
->Go to this link  http://127.0.0.1:8000/api/2        #### To update and change the last number in the link which is pk. You will find same as above but  
-                                                     instead of POST you will find PUT. Enter the data as same as above and click on PUT. Data will be updated
+>Go to this link  http://127.0.0.1:8000/api/2        #### To update and change the last number in the link which is primary key. You will find same as above but instead of POST you will find PUT. Enter the data as same as the above and click on PUT. Data will be updated
                                                          And also to delete data follow same where you will find Delete button.
                                                     
                                                     
