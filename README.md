@@ -17,9 +17,9 @@
 >Open this link http://127.0.0.1:8000/api/1            ### The last number represents the primary key which can be used to navigate to specific user by changing it 
 
 
->Open this link http://127.0.0.1:8000/api/list/           ###For getting json data in pagination format, as given, limited to 5 and also In the same page click on filters button 
+>Open this link http://127.0.0.1:8000/api/list/           ###For getting json data in pagination format, as given (limited to 5) and also in the same page click on filters button 
                                                          and enter in search field for filtering by first_name, last_name.
-                                                         you can also select same filter button and select required file to get sorted in accending or decending order or u can edit
+                                                         you can also use same filter and select required file to get sorted in accending or decending order or u can edit
                                                          below link to do it manually. 
                                                          
                                                          
